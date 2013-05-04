@@ -103,21 +103,27 @@
     <None Include="UserImages.bmp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CheckUpdateDialog.h" />
     <ClInclude Include="Game555.h" />
     <ClInclude Include="Game555Doc.h" />
     <ClInclude Include="Game555View.h" />
+    <ClInclude Include="LobbyDialog.h" />
     <ClInclude Include="LoginDialog.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="Resource.h" />
+    <ClInclude Include="SkinDialog.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CheckUpdateDialog.cpp" />
     <ClCompile Include="Game555.cpp" />
     <ClCompile Include="Game555Doc.cpp" />
     <ClCompile Include="Game555View.cpp" />
+    <ClCompile Include="LobbyDialog.cpp" />
     <ClCompile Include="LoginDialog.cpp" />
     <ClCompile Include="MainFrm.cpp" />
+    <ClCompile Include="SkinDialog.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>

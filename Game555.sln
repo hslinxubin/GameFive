@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game555", "Game555\Game555.vcxproj", "{C4F69642-BCCF-408D-BE7E-D7302C72758C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameFiveSDK", "GameFiveSDK\GameFiveSDK.vcxproj", "{3120A7B5-69DC-40DB-B915-D082565CDB40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{C4F69642-BCCF-408D-BE7E-D7302C72758C}.Debug|Win32.Build.0 = Debug|Win32
 		{C4F69642-BCCF-408D-BE7E-D7302C72758C}.Release|Win32.ActiveCfg = Release|Win32
 		{C4F69642-BCCF-408D-BE7E-D7302C72758C}.Release|Win32.Build.0 = Release|Win32
+		{3120A7B5-69DC-40DB-B915-D082565CDB40}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3120A7B5-69DC-40DB-B915-D082565CDB40}.Debug|Win32.Build.0 = Debug|Win32
+		{3120A7B5-69DC-40DB-B915-D082565CDB40}.Release|Win32.ActiveCfg = Release|Win32
+		{3120A7B5-69DC-40DB-B915-D082565CDB40}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

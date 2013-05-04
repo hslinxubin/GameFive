@@ -60,6 +60,15 @@
     <ClInclude Include="LoginDialog.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="SkinDialog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LobbyDialog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckUpdateDialog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Game555.cpp">
@@ -78,6 +87,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="LoginDialog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SkinDialog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LobbyDialog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckUpdateDialog.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

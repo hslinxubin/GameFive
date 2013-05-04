@@ -24,6 +24,10 @@ public:
 public:
 	virtual BOOL InitInstance();
 	virtual int ExitInstance();
+public:
+//0x20,主窗口对象
+	CMainFrame *MainFrame;
+
 
 // 实现
 	BOOL  m_bHiColorIcons;

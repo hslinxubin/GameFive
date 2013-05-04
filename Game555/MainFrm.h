@@ -13,6 +13,8 @@ protected: // 仅从序列化创建
 
 // 特性
 public:
+	//0x3CAC,皮肤和颜色设置窗口
+	CSkinDialog SkinDialog;
 
 // 操作
 public:
